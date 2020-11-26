@@ -1,0 +1,2 @@
+# Init Git 
+* first project
